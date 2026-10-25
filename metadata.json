@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Legenda",
+  "description": "Game petualangan epik dengan berbagai level, pertempuran strategis, generator pemandangan fantasi AI, dan pendamping petualangan Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
